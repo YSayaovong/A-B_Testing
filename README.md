@@ -1,7 +1,7 @@
 # A/B Hypothesis Testing
 
 This project demonstrates A/B hypothesis testing using Python and Google Colab. 
-The analysis compares click rates between two groups (Group A: Blue Button, Group B: Green Button) 
+The analysis compares click rates between two groups (Group A and Group B) 
 to determine if the color change affects user behavior.
 
 ## Files
